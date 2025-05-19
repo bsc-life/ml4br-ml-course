@@ -43,6 +43,13 @@ Unsupervised Learning (1 h)
 - Hands-on projects: image classification, segmentation, text and tabular data, and recommendation systems
 - SHAP values for model explainability and interpretation
 
+
+1. Gradient Descent demo: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/01_gradient_descent_demo.ipynb)
+
+2. fast.ai intro: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/02_fastai_intro.ipynb)
+
+3. CNN CIFAR-10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/03_cifar10_tutorial.ipynb)
+
 ## Day 4 – Large Language Models from Theory to Applications
 
 - Introduction to core concepts behind Large Language Models (LLMs)
