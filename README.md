@@ -48,9 +48,13 @@ Throughout the four hours, we’ll explore the core ideas behind Large Language 
 
 
 ## 2. Links to Google Colabs:
+To open in Google Colab notebooks from this course, please click on the corresponding buttons below. You may be asked about some permissions to run those notebooks. Allow and enjoy!
+
 ### 2.1. Day 1
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_1/Introduction%20to%20Machine%20Learning%20for%20Life%20Sciences%20-%20Day%201%3A%20Data%20Processing%20and%20Feature%20Engineering%20.ipynb)
+1. Introduction to Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_1/Introduction%20to%20Machine%20Learning%20for%20Life%20Sciences%20-%20Day%201%3A%20Data%20Processing%20and%20Feature%20Engineering%20.ipynb)
+
+2. Features engineering: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_1/Day_1_Feature_Engineering.ipynb)
 
 ### 2.2. Day 2
 
