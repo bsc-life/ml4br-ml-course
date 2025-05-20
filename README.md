@@ -32,7 +32,7 @@ Unsupervised Learning (1 h)
 
 1. Supervised Learning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_2/DAY2_Supervised.ipynb)
 
-2. Unsupervised Learning: [![Open In Colab](https://colab.research.google.com/drive/11yUMJz-nPWy3gWtsdBtvzLtKHzcX2n4y#scrollTo=hAbQcH9GFbNJ)
+2. Unsupervised Learning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11yUMJz-nPWy3gWtsdBtvzLtKHzcX2n4y#scrollTo=hAbQcH9GFbNJ)
 
 ## Day 3 – Deep Learning
 
