@@ -51,7 +51,7 @@ Unsupervised Learning (1 h)
 | Gradient Descent demo  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/01_gradient_descent_demo.ipynb) |
 | fast.ai intro          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/02_fastai_intro.ipynb) |
 | SHAP                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/03_shap_explainabilty.ipynb) |
-| CNN CIFAR-10           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/04_cifar10_tutorial.ipynb) |
+| PyTorch Intro  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/04_PyTorch.ipynb) |
 
 
 ## Day 4 – Large Language Models from Theory to Applications
