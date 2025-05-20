@@ -18,9 +18,11 @@
 - Feature Engineering (Extraction & Selection)
 - Hands-on session 
 
-1. Introduction to Python: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_1/Introduction%20to%20Machine%20Learning%20for%20Life%20Sciences%20-%20Day%201%3A%20Data%20Processing%20and%20Feature%20Engineering%20.ipynb)
+| Notebook Title          | Open in Colab |
+|-------------------------|---------------|
+| Introduction to Python  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_1/Introduction%20to%20Machine%20Learning%20for%20Life%20Sciences%20-%20Day%201%3A%20Data%20Processing%20and%20Feature%20Engineering%20.ipynb) |
+| Features Engineering    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_1/Day_1_Feature_Engineering.ipynb) |
 
-2. Features engineering: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_1/Day_1_Feature_Engineering.ipynb)
 
 ## Day 2 – Supervised and Unsupervised learning
 
@@ -30,9 +32,10 @@ Unsupervised Learning (1 h)
 - K-means, DBSCAN
 - Hands-on: Training and Testing Supervised and Unsupervised Models
 
-1. Supervised Learning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_2/DAY2_Supervised.ipynb)
-
-2. Unsupervised Learning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11yUMJz-nPWy3gWtsdBtvzLtKHzcX2n4y#scrollTo=hAbQcH9GFbNJ)
+| Notebook Title         | Open in Colab |
+|------------------------|---------------|
+| Supervised Learning    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_2/DAY2_Supervised.ipynb) |
+| Unsupervised Learning  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11yUMJz-nPWy3gWtsdBtvzLtKHzcX2n4y#scrollTo=hAbQcH9GFbNJ) |
 
 ## Day 3 – Deep Learning
 
@@ -43,14 +46,13 @@ Unsupervised Learning (1 h)
 - Hands-on projects: image classification, segmentation, text and tabular data, and recommendation systems
 - SHAP values for model explainability and interpretation
 
+| Notebook Title         | Open in Colab |
+|------------------------|---------------|
+| Gradient Descent demo  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/01_gradient_descent_demo.ipynb) |
+| fast.ai intro          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/02_fastai_intro.ipynb) |
+| SHAP                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/03_shap_explainabilty.ipynb) |
+| CNN CIFAR-10           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/04_cifar10_tutorial.ipynb) |
 
-1. Gradient Descent demo: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/01_gradient_descent_demo.ipynb)
-
-2. fast.ai intro: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/02_fastai_intro.ipynb)
-
-3. SHAP: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/03_shap_explainabilty.ipynb)
-
-4. CNN CIFAR-10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/04_cifar10_tutorial.ipynb)
 
 ## Day 4 – Large Language Models from Theory to Applications
 
