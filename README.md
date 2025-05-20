@@ -48,7 +48,9 @@ Unsupervised Learning (1 h)
 
 2. fast.ai intro: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/02_fastai_intro.ipynb)
 
-3. CNN CIFAR-10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/03_cifar10_tutorial.ipynb)
+3. SHAP: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/03_shap_explainabilty.ipynb)
+
+4. CNN CIFAR-10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_3/04_cifar10_tutorial.ipynb)
 
 ## Day 4 – Large Language Models from Theory to Applications
 
