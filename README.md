@@ -61,3 +61,7 @@ Unsupervised Learning (1 h)
 - Discussion of strengths, limitations, and real-world scaling challenges
 - Hands-on demo with Hugging Face Transformers library
 - Practical exercise: fine-tuning an LLM on life sciences NLP tasks
+
+| Notebook Title         | Open in Colab |
+|------------------------|---------------|
+| Translation Demo    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kv06L91JLu21R5Edk7-A667wWAZAhuIn?authuser=3#scrollTo=2GIowZ_9sjC5) |
