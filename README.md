@@ -64,5 +64,5 @@ Unsupervised Learning (1 h)
 
 | Notebook Title         | Open in Colab |
 |------------------------|---------------|
-| Translation Demo    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_4/Translation_Lab.ipynb)
- |
+| Hugging Face Demo    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_4/Intro_to_the_Transformers_Library.ipynb)|
+| Translation Lab    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_4/Translation_Lab.ipynb)|
