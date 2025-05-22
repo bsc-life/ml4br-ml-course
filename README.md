@@ -60,7 +60,7 @@ Unsupervised Learning (1 h)
 - Explanation of Transformer architecture and attention mechanisms
 - Discussion of strengths, limitations, and real-world scaling challenges
 - Hands-on demo with Hugging Face Transformers library
-- Practical exercise: fine-tuning an LLM on life sciences NLP tasks
+- Practical exercise: fine-tuning an LLM on a downstream task
 
 | Notebook Title         | Open in Colab |
 |------------------------|---------------|
