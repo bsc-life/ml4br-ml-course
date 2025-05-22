@@ -1,4 +1,5 @@
 # 4-Day Machine Learning Course for Life Sciences
+Materials of the course delivered by [Machine Learning for Biomedical Research](https://www.bsc.es/discover-bsc/organisation/research-departments/machine-learning-biomedical-research) Unit at Barcelona Supercomoputing Center at May 2025.
 
 - Day 1: Data Processing & Feature Engineering — Python refresher, data exploration, preprocessing, and feature engineering.
 
@@ -69,9 +70,29 @@ Unsupervised Learning (1 h)
 
 
 ## Further steps - learning materials
-Free courses which are highly recommended:
-- For sequential learners, who prefer to start from basic idead and progress to complex ideas: [Deeplearning.ai Machine learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/).
-- For top-down learners, who prefer to start from examples and working code: [fast.ai - Practical Deep Learning](https://course.fast.ai)
-- How to put Deep Learning models into production: [Full Stack Deep Learning - MLOps](https://fullstackdeeplearning.com/course/2022/)
-- Set of courses on DataEngineering, MLOps, LLMs. Focus on engineers: [DataTalksClub](https://github.com/DataTalksClub)
-- Hugging Face LLM course: [LLM Course](https://huggingface.co/learn/llm-course/en/chapter1/1)
+### 🎓 Free Courses to Start With
+
+| Course Name | Description | Link |
+|-------------|-------------|------|
+| Deeplearning.ai Machine Learning Specialization | For sequential learners, who prefer to start from basic ideas and progress to complex ideas | [Link](https://www.deeplearning.ai/courses/machine-learning-specialization/) |
+| fast.ai - Practical Deep Learning | For top-down learners, who prefer to start from examples and working code | [Link](https://course.fast.ai) |
+
+---
+
+### 🛠️ Advanced Concepts, Engineering
+
+| Course Name | Description | Link |
+|-------------|-------------|------|
+| Full Stack Deep Learning - MLOps | How to put Deep Learning models into production | [Link](https://fullstackdeeplearning.com/course/2022/) |
+| DataTalksClub | Set of courses on Data Engineering, MLOps, LLMs. Focus on engineers | [Link](https://github.com/DataTalksClub) |
+
+---
+
+### 🤖 LLMs
+
+| Course Name | Description | Link |
+|-------------|-------------|------|
+| Hugging Face LLM Course | Comprehensive LLM course by Hugging Face | [Link](https://huggingface.co/learn/llm-course/en/chapter1/1) |
+| Hugging Face Smol Course | Hugging Face's beginner-friendly course | [Link](https://github.com/huggingface/smol-course) |
+| Hugging Face Agents Course | Learn how to use agents with Hugging Face tools | [Link](https://huggingface.co/learn/agents-course/en/unit0/introduction) |
+| Hugging Face MCP Course | Multi-modal Course Pack focused on multiple modalities | [Link](https://huggingface.co/learn/mcp-course/unit0/introduction) |
