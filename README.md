@@ -66,3 +66,12 @@ Unsupervised Learning (1 h)
 |------------------------|---------------|
 | Hugging Face Demo    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_4/Intro_to_the_Transformers_Library.ipynb)|
 | Translation Lab    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsc-life/ml4br-ml-course/blob/main/nbs/day_4/Translation_Lab.ipynb)|
+
+
+## Further steps - learning materials
+Free courses which are highly recommended:
+- For sequential learners, who prefer to start from basic idead and progress to complex ideas: [Deeplearning.ai Machine learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/).
+- For top-down learners, who prefer to start from examples and working code: [fast.ai - Practical Deep Learning](https://course.fast.ai)
+- How to put Deep Learning models into production: [Full Stack Deep Learning - MLOps](https://fullstackdeeplearning.com/course/2022/)
+- Set of courses on DataEngineering, MLOps, LLMs. Focus on engineers: [DataTalksClub](https://github.com/DataTalksClub)
+- Hugging Face LLM course: [LLM Course](https://huggingface.co/learn/llm-course/en/chapter1/1)
